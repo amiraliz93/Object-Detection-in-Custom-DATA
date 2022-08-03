@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: '0'
+}
+
+item {
+    id: 2
+    name: 'Crossing-street'
+}
