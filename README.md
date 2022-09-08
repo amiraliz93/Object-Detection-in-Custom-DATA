@@ -4,4 +4,5 @@ This is a Android based project to able visually impaired people to be more inde
 - you can get dataset from ImageData by using the get_data file
 - you can reach entire data by visually_impaired and Model_maker files
 - the model_maker file contains another model created by TensorFlow model maker and utilised pre-train TensorFlow lite model 
-- The main model for app is 
+- The main model and code for app can be found in ModelE1_Epoch1000_B8 file
+- the inal app cane be douanload here
