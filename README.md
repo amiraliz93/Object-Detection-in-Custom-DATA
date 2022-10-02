@@ -23,4 +23,3 @@ and batch size considered for this model were 1000 and 8 respectively.
 - The dataset can download from ImageData by using the get_data file
 - Visually_impaired, Model_maker and ModelE1_Epoch1000_B8 files are the training model and for final app the trained model of ModelE1_Epoch1000_B8 was used
 - THE FINAL app named Detection and can be find here
-
